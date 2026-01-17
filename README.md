@@ -50,13 +50,13 @@ I'm Caio, from Brazil! 🇧🇷<br><br>
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/allan-matias-9a7042269/" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-silva-pereira-458578333/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/cmd.matiasz/" target="_blank">
+  <a href="https://www.instagram.com/caiioopereira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:allangiovannimatias@gmail.com" target="_blank">
+  <a href="mailto:caiosilvaofrj@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" height="40" alt="email logo"  />
   </a>
 </div>

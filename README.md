@@ -68,7 +68,7 @@ I'm Caio, from Brazil! 🇧🇷<br><br>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Matiaszz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=CaioPereira17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -79,19 +79,19 @@ I'm Caio, from Brazil! 🇧🇷<br><br>
 
 <div align="center">
   
-  <p>1. <strong>Community Van Tracker (In Development)</strong></p>
+  <p>1. <strong>Military Extension System (Sistema de Ramais)</strong></p>
+  <p>A full-stack web application developed to manage internal phone extensions and personnel data. Built with <strong>Angular</strong>, <strong>Spring Boot</strong>, and <strong>PostgreSQL</strong>.</p>
+  <p>Key features include complex hierarchical filtering (Department Parent/Child logic), dynamic PDF report generation with JasperReports, and JWT authentication.</p>
+
+  <p>2. <strong>Community Van Tracker (In Development)</strong></p>
   <p>A real-time geolocation mobile application to track community vans. Built with <strong>Dart</strong> and <strong>Flutter</strong>.</p>
   <p>The goal is to provide real-time estimates and location data to the community users.</p>
   
-  <p>2. <strong>GTA RP Police Dashboard</strong></p>
+  <p>3. <strong>GTA RP Police Dashboard</strong></p>
   <p>A comprehensive dashboard panel for a GTA Roleplay server.</p>
   <p>Developed using <strong>Lua</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong> to manage police operations and data within the game server.</p>
 
-  <p>3. <strong><a href='https://github.com/Matiaszz/SkillVault'>SkillVault</a></strong></p>
+  <p>4. <strong><a href='https://github.com/Matiaszz/SkillVault'>SkillVault</a></strong></p>
   <p>SkillVault is a Spring Boot application for validating digital skills and certificates, allowing authenticated users to upload and manage certifications via RESTful APIs.</p>
-  <p>It uses role-based access control, integrates with Azure Blob Storage, and supports Swagger documentation.</p>
-
-  <p>4. <strong><a href='https://github.com/Matiaszz/smartdoc'>SmartDoc</a></strong></p>
-  <p>SmartDoc is a Spring Boot application for document management and automation, integrating with Azure Blob Storage for scalable file storage and MySQL for metadata persistence.</p>
 
 </div>

@@ -91,7 +91,4 @@ I'm Caio, from Brazil! 🇧🇷<br><br>
   <p>A comprehensive dashboard panel for a GTA Roleplay server.</p>
   <p>Developed using <strong>Lua</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong> to manage police operations and data within the game server.</p>
 
-  <p>4. <strong><a href='https://github.com/Matiaszz/SkillVault'>SkillVault</a></strong></p>
-  <p>SkillVault is a Spring Boot application for validating digital skills and certificates, allowing authenticated users to upload and manage certifications via RESTful APIs.</p>
-
 </div>

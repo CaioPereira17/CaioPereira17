@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 I'm Caio</h1>
 
 ###
 
@@ -7,19 +7,18 @@
 ###
 
 <p align="left">
-I'm Caio, from Brazil! 🇧🇷<br><br>
-🎓 I'm a <strong>Systems Analysis and Development student</strong> (graduating June 2026) with a background in IT Support and Hardware Maintenance.<br>
-🎖️ Currently a military member transitioning to a full-time career in Software Development.<br>
-🚀 I am developing real-world solutions using <strong>Dart/Flutter</strong> and scripting for game mods with <strong>Lua/JS</strong>.<br>
-🌍 I have been studying English for 4 years and my goal is to work internationally.<br>
-⚡ In my free time, I code personal projects and play videogames!
+  🇧🇷 I'm from Brazil and currently transitioning from a 7-year military career in IT Support to full-time Software Engineering.<br><br>
+  🎓 I'm a <strong>Systems Analysis and Development student</strong> (graduating in June 2026).<br>
+  🚀 I love solving real-world problems with clean architecture, focusing on <strong>Full-Stack Web</strong> and <strong>Mobile Development</strong>.<br>
+  🌍 I have been studying English for 4 years and my ultimate goal is to work internationally.<br>
+  ⚡ In my free time, I code personal projects, script for game mods, and play videogames!
 </p>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Tech Stack & Tools</h3>
 
-#### ✅ Tech Stack
+#### ✅ Experienced With
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img width="12" />
@@ -28,24 +27,26 @@ I'm Caio, from Brazil! 🇧🇷<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS" />
 </div>
 
 ###
 
-<h3 align="left">💬 Contact :</h3>
+<h3 align="left">💬 Let's Connect:</h3>
 
 ###
 
@@ -63,7 +64,7 @@ I'm Caio, from Brazil! 🇧🇷<br><br>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
 ###
 
@@ -73,22 +74,22 @@ I'm Caio, from Brazil! 🇧🇷<br><br>
 
 ###
 
-<h3 align="left">📓 Current & Best Projects: </h3>
+<h3 align="left">📓 Highlighted Projects: </h3>
 
 ###
 
-<div align="center">
+<div align="left">
   
-  <p>1. <strong>Military Extension System (Sistema de Ramais)</strong></p>
-  <p>A full-stack web application developed to manage internal phone extensions and personnel data. Built with <strong>Angular</strong>, <strong>Spring Boot</strong>, and <strong>PostgreSQL</strong>.</p>
-  <p>Key features include complex hierarchical filtering (Department Parent/Child logic), dynamic PDF report generation with JasperReports, and JWT authentication.</p>
+  <p>🏢 <strong>1. Military Extension System (Sistema de Ramais)</strong></p>
+  <p>A robust full-stack web application developed to manage internal phone extensions and personnel data for a military organization. Built with <strong>Angular</strong>, <strong>Spring Boot</strong>, and <strong>PostgreSQL</strong>. Features complex hierarchical filtering, dynamic PDF report generation, and secure JWT authentication.</p>
 
-  <p>2. <strong>Community Van Tracker (In Development)</strong></p>
-  <p>A real-time geolocation mobile application to track community vans. Built with <strong>Dart</strong> and <strong>Flutter</strong>.</p>
-  <p>The goal is to provide real-time estimates and location data to the community users.</p>
+  <p>🚐 <strong>2. Community Van Tracker (In Development)</strong></p>
+  <p>A real-time geolocation mobile application to track community vans. Built with <strong>Dart</strong> and <strong>Flutter</strong> to provide real-time estimates and location data to local users.</p>
   
-  <p>3. <strong>GTA RP Police Dashboard</strong></p>
-  <p>A comprehensive dashboard panel for a GTA Roleplay server.</p>
-  <p>Developed using <strong>Lua</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong> to manage police operations and data within the game server.</p>
+  <p>🚓 <strong>3. GTA RP Police Dashboard</strong></p>
+  <p>A comprehensive dashboard panel for a GTA Roleplay server. Developed using <strong>Lua</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong> to manage police operations and database records dynamically.</p>
+
+  <p>🔐 <strong>4. <a href='https://github.com/CaioPereira17/SkillVault'>SkillVault</a> & <a href='https://github.com/CaioPereira17/smartdoc'>SmartDoc</a></strong></p>
+  <p>Spring Boot RESTful APIs integrated with Azure Blob Storage for digital skill validation and automated document management.</p>
 
 </div>
